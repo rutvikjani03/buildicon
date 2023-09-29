@@ -1,0 +1,113 @@
+
+@media (max-width:600px) {
+    
+
+    .carousel-item img {
+
+        height: 70vh;
+    }
+
+
+    .services {
+
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .text {
+
+        margin-top: 20px;
+    }
+
+    .text button {
+
+        margin-left: 40px;
+    }
+
+    .services2 {
+
+        display: flex;
+        margin-top: 22vh;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    .box1 {
+
+        margin-top: 8vh;
+        
+    }
+
+    #box {
+
+        margin-top: 20vh;
+    }
+    
+    .project{
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .build1{
+
+        margin-top: 30px;
+        
+    }
+    
+    
+    .po img{
+
+        height: 30vh;
+    }
+
+    .team {
+
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .p1 {
+
+        height: 60vh;
+        margin-top: 30px;
+        /* margin-left: 60px; */
+    }
+
+    .contact {
+
+
+       
+        margin-top: -140px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        /* height: 75px; */
+        
+        
+    }
+
+    .left {
+
+        /* height: 40vh; */
+    }
+
+    .h3 {
+
+        margin-top: 180vh;
+    }
+
+    .left input  {
+
+        width: 240px;
+    }
+    .left textarea  {
+
+        width: 240px;
+    }
+}
